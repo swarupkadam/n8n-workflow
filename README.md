@@ -1,6 +1,8 @@
 ﻿# ⚡ n8n Workflows on Easy Mode
 Build Automations with Cursor + Claude Code
 
+Last updated: March 2, 2026
+
 You've probably seen people building full automation systems in minutes — lead generation pipelines, onboarding systems, invoice automation — while others are still manually connecting nodes in n8n.
 
 Good news :
@@ -222,3 +224,4 @@ Yes. Automation services are highly valuable for businesses.
 
 Source adapted from setup guide:  
 **n8n Workflows on Easy Mode: Build Automations With Cursor + Claude Code**
+
