@@ -3,7 +3,7 @@ Build Automations with Cursor + Claude Code
 
 You've probably seen people building full automation systems in minutes — lead generation pipelines, onboarding systems, invoice automation — while others are still manually connecting nodes in n8n.
 
-Good news:
+Good news :
 You don't need to learn n8n the hard way.
 
 Using Cursor + Claude Code + n8n, you can describe workflows in plain English and let AI build them automatically.
